@@ -17,3 +17,18 @@ Welcome to my repository for the Advent of Code 2024! This repository contains m
 | ... | ... | ... |
 
 _Note: Links to problems and solutions will be updated daily._
+
+### Try it yourself
+
+To run the solutions locally, follow these steps:
+
+1. Clone the repo:
+```bash
+git clone git@github.com:prateekkish/advent_of_code.git
+cd advent_of_code
+```
+
+2. Find and run the solutions:
+```bash
+python 2024/day_1/part1_distance.py
+```
